@@ -1,0 +1,46 @@
+.demodiv {
+  height: 100%;
+  width: 100vw;
+  background-color: rgb(226, 205, 205);
+}
+.demodivresults {
+  padding: 100px;
+  background-color: rgb(74, 124, 172);
+}
+.resultdiv {
+  width: 100vw;
+  height: 800px;
+  padding: 100px;
+  background-color: white;
+}
+.stammringresult {
+  height: 250px;
+  width: 100%;
+  background-color: rgb(20, 188, 20);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.alzmhrresult {
+  height: 250px;
+  width: 100%;
+  background-color: rgb(36, 44, 114);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.resultshowbtn {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+.stammringresult p {
+  color: white;
+}
+.alzmhrresult p {
+  color: white;
+}
